@@ -1,0 +1,27 @@
+.col{
+    justify-content: center;
+    color: white;
+    text-align: center;
+    height: 50px;
+  
+  }
+  body{
+      width: 50vw;
+      height: 50vh;
+      margin: 0 auto;
+      background-color: rgb(97, 97, 97);
+  }
+.container{
+      padding-top:50px ;
+      margin: 0 auto;
+  }
+.row{
+      justify-content: center;
+  }
+
+.red{
+    background-color: red;
+}
+.black{
+    background-color: black;
+}
