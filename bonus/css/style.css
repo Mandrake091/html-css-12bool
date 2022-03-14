@@ -6,15 +6,18 @@
   
   }
   body{
-      width: 50vw;
-      height: 50vh;
+      width: 100vw;
+      height: 100vh;
       margin: 0 auto;
       background-color: rgb(97, 97, 97);
   }
 .container{
-      padding-top:50px ;
-      margin: 0 auto;
+    width: 700px;
+    height:500px;
+    padding-top:50px ;
+    margin: 0 auto;
   }
+  
 .row{
       justify-content: center;
   }
